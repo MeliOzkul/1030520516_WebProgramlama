@@ -9,8 +9,8 @@ Tasarlayan: Melike Özkul <br>
 Öğretim Üyesi: Dr. Fehim KÖYLÜ<br><br>
 Web sitesini index.html sayfasından açabilirsiniz.<br><br>
 Dosyalar<br>
+index.html<br>
 benimsayfam.html <br>
-2_a.html (Obisi anasayfası )<br>
 <br><br>
 Kullanılan Araçlar<br>
 HTML<br>
