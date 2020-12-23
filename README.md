@@ -6,12 +6,12 @@ https://tr.indeed.com/ sitesinin frontend birebir yeniden tasarımı<br>
 BS435 Web Programlama 1 Dersi Vize Ödevi<br>
 Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü<br>
 Tasarlayan: Melike Özkul <br>
-Öğretim Üyesi: Dr. Fehim KÖYLÜ<br>
-
+Öğretim Üyesi: Dr. Fehim KÖYLÜ<br><br>
+Web sitesini index.html sayfasından açabilirsiniz.<br><br>
 Dosyalar<br>
 benimsayfam.html <br>
 2_a.html (Obisi anasayfası )<br>
-<br><br><br><br>
+<br><br>
 Kullanılan Araçlar<br>
 HTML<br>
 CSS3 (Web sitesindekiler kullanıldı)<br>
